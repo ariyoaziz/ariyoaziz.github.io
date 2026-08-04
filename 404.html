@@ -1,38 +1,86 @@
 <!DOCTYPE html>
 <html lang="id">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/mylogo.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer</title>
-    <meta name="description" content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Web Developer. View my works, projects, and contact me for collaboration." />
-    <meta name="keywords" content="Ariyo Aziz Pratama, Ariyo Aziz, UI/UX Designer, Frontend Developer, Web Developer, Portfolio, Vue.js, Tailwind CSS" />
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://ariyoaziz.com/" />
-    <meta property="og:title" content="Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer" />
-    <meta property="og:description" content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Web Developer. View my works, projects, and contact me." />
-    <meta property="og:image" content="/og-image.webp" />
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/mylogo.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer</title>
+    <meta name="description" content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer &amp; Web Developer. View my works, projects, and contact me for collaboration." />
+    <meta name="keywords" content="Ariyo Aziz Pratama, Ariyo Aziz, Ariyo, UI/UX Designer, Frontend Developer, Flutter Developer, Web Developer, Portfolio, Vue.js" />
+    <meta name="author" content="Ariyo Aziz Pratama" />
+    <link rel="canonical" href="https://ariyoaziz.github.io/" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://ariyoaziz.com/" />
-    <meta property="twitter:title" content="Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer" />
-    <meta property="twitter:description" content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Web Developer. View my works, projects, and contact me." />
-    <meta property="twitter:image" content="/og-image.webp" />
+    <!-- JSON-LD Structured Data: Google knows this is Ariyo Aziz Pratama's portfolio -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ariyo Aziz Pratama",
+      "alternateName": ["Ariyo Aziz", "Ariyo"],
+      "url": "https://ariyoaziz.github.io",
+      "jobTitle": "UI/UX Designer & Frontend Developer",
+      "description": "Product Designer, Frontend & Flutter Developer crafting high-precision digital products.",
+      "email": "ariyoaziz.pratama@gmail.com",
+      "sameAs": [
+        "https://github.com/ariyoaziz",
+        "https://linkedin.com/in/ariyoaziz"
+      ],
+      "knowsAbout": ["UI/UX Design", "Frontend Development", "Flutter", "Vue.js", "Figma", "Web Design"],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "UI/UX Designer & Frontend Developer",
+        "occupationLocation": {
+          "@type": "Country",
+          "name": "Indonesia"
+        }
+      }
+    }
+    </script>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
-      rel="stylesheet" media="print" onload="this.media='all'"
-    />
-    <script type="module" crossorigin src="/assets/index-D4px-X3K.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/vue-vendor-LbwF-Tnv.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-DG5P-zfl.css">
-  </head>
-  <body>
-    <div id="app"></div>
-  </body>
+    <!-- WebSite Schema for Sitelinks Searchbox potential -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Ariyo Aziz Pratama - Portfolio",
+      "url": "https://ariyoaziz.github.io",
+      "description": "Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Frontend Developer",
+      "author": {
+        "@type": "Person",
+        "name": "Ariyo Aziz Pratama"
+      }
+    }
+    </script>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ariyoaziz.github.io/" />
+  <meta property="og:title" content="Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer" />
+  <meta property="og:description"
+    content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Web Developer. View my works, projects, and contact me." />
+  <meta property="og:image" content="https://ariyoaziz.github.io/images/og-image.png" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://ariyoaziz.github.io/" />
+  <meta property="twitter:title" content="Ariyo Aziz - Portfolio | UI/UX Designer & Web Developer" />
+  <meta property="twitter:description"
+    content="Portfolio of Ariyo Aziz Pratama, a UI/UX Designer & Web Developer. View my works, projects, and contact me." />
+  <meta property="twitter:image" content="https://ariyoaziz.github.io/images/og-image.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet"
+    media="print" onload="this.media='all'" />
+  <script type="module" crossorigin src="/assets/index-D4px-X3K.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/vue-vendor-LbwF-Tnv.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-DG5P-zfl.css">
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
 </html>
