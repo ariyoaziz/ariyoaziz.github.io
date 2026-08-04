@@ -73,11 +73,34 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
+
+  <!-- Inter Font: async non-blocking -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet"
     media="print" onload="this.media='all'" />
-  <script type="module" crossorigin src="/assets/index-D4px-X3K.js"></script>
-  <link rel="modulepreload" crossorigin href="/assets/vue-vendor-LbwF-Tnv.js">
-  <link rel="stylesheet" crossorigin href="/assets/index-DG5P-zfl.css">
+  <noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  </noscript>
+
+  <!-- FontAwesome: async non-blocking (moved from JS bundle — was 300KB render-blocking) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    media="print" onload="this.media='all'" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <noscript>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+  </noscript>
+
+  <!-- Critical CSS: prevent white/blank flash before Vue mounts -->
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    html.dark { background-color: #090d16; color: #e2e8f0; }
+    html:not(.dark) { background-color: #f8fafc; color: #1a202c; }
+    body { min-height: 100vh; font-family: 'Inter', system-ui, sans-serif; background: inherit; color: inherit; }
+    #app { min-height: 100vh; }
+  </style>
+  <script type="module" crossorigin src="/assets/index-DCGXhrtD.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/vue-vendor-D3y8_R3O.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-DA49N4TS.css">
 </head>
 
 <body>
