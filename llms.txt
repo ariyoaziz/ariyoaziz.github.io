@@ -1,0 +1,18 @@
+# Ariyo Aziz Pratama — Portfolio
+
+> Product Designer, Frontend (Vue.js / React), and Flutter Mobile Application Developer.
+
+## Summary
+Ariyo Aziz Pratama is a Product Designer and Informatics graduate based in Yogyakarta, Indonesia. He specializes in human-centered UI/UX design systems, modern responsive web applications using Vue 3 and React, and cross-platform mobile apps with Flutter.
+
+## Core Capabilities
+- UI/UX Architecture, Wireframing, Figma Design Systems & Prototyping
+- Frontend Engineering with Vue 3, Vite, React, and Tailwind CSS
+- Cross-Platform Mobile Application Development with Flutter and Dart
+- Backend integration (Flask, PostgreSQL, MySQL, REST APIs)
+
+## Key Pages & Navigation
+- `/`: Main interactive homepage, profile manifesto, featured projects, career timeline, tech stack, and certificates preview.
+- `/projects`: Complete archive of portfolio projects filterable by Programmer, UI/UX, and Photography domains.
+- `/certificates`: Professional certifications, academic credentials, and course achievements.
+- `/project/:slug`: Deep dive case studies for individual projects (e.g., VitaCal App, Semesta Kecil, FrameFlow, Dapur Vanny).
