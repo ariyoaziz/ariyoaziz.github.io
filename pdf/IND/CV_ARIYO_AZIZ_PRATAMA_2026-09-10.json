@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "metadata": {
+    "id": "6e08f58c-4d3b-4f8f-91c7-3e3c4e66f7d2",
+    "createdAt": "2026-09-07T22:07:00.000Z",
+    "updatedAt": "2026-09-09T18:26:24.182Z",
+    "templateId": "classic",
+    "accentColor": "#2563eb",
+    "typography": "inter",
+    "sectionOrder": [
+      "summary",
+      "experience",
+      "education",
+      "skills",
+      "projects",
+      "certifications",
+      "organizations",
+      "portfolio",
+      "languages",
+      "awards",
+      "courses",
+      "licenses",
+      "volunteer",
+      "publications",
+      "references",
+      "interests"
+    ],
+    "sectionLabels": {}
+  },
+  "personalInfo": {
+    "fullName": "ARIYO AZIZ PRATAMA",
+    "headline": "Desainer Produk | Insinyur Front-End | Pengembang Flutter",
+    "email": "ariyoaziz.pratama@gmail.com",
+    "phone": "+62 858 7874 3545",
+    "location": "Sleman, Daerah Istimewa Yogyakarta, Indonesia",
+    "linkedin": "",
+    "github": "",
+    "website": "",
+    "showFullLinks": false,
+    "photoUrl": ""
+  },
+  "summary": {
+    "summary": "Lulusan Sarjana Informatika dengan fokus pada desain produk, pengembangan front-end, dan pengembangan aplikasi Flutter. Berpengalaman merancang dan mengembangkan produk digital melalui riset pengguna, arsitektur informasi, alur pengguna, wireframing, prototyping, design system, dan design QA, serta mengimplementasikan aplikasi web dan mobile menggunakan React.js, Next.js, dan Flutter. Menggabungkan pendekatan berpusat pada pengguna dengan kemampuan teknis untuk menghasilkan pengalaman digital yang intuitif, responsif, dan fungsional."
+  },
+  "experience": [
+    {
+      "id": "5e4d7a1b-7e69-4f63-8f2d-2b7a8b1c4d91",
+      "company": "PT Vortex Buana Edumedia",
+      "position": "Desainer Produk",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2026-07",
+      "endDate": "",
+      "current": true,
+      "description": "-Merancang pengalaman produk digital untuk NEON UJI melalui proses product design end-to-end, mulai dari memahami produk, problem solving UX, penyusunan task flow, hingga desain antarmuka high-fidelity.\n- Menerapkan framework UX seperti How Might We (HMW), Crazy 8s, dan prioritization matrix untuk mengeksplorasi, mengevaluasi, dan menentukan prioritas solusi desain berdasarkan kebutuhan produk dan pengguna.\n- Menggunakan dan menerapkan Design System serta menyusun design specification untuk menjaga konsistensi desain dan mendukung proses handoff kepada engineer.\n- Melakukan Design QA untuk memvalidasi kualitas implementasi desain, mencakup responsive behavior, interactive states, typography, spacing, accessibility, content, assets, dan motion.\n- Berkolaborasi dengan tim lintas fungsi untuk menerjemahkan kebutuhan produk menjadi pengalaman yang intuitif, konsisten, dan siap diimplementasikan."
+    },
+    {
+      "id": "a2c6e8f1-3d54-4b97-9a21-6f8c2d5e7b43",
+      "company": "Freelance",
+      "position": "Fotografer Lepas",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-01",
+      "endDate": "",
+      "current": true,
+      "description": "- Merencanakan dan mengeksekusi proyek fotografi untuk klien individu maupun bisnis.\n- Mengolah dan menyerahkan aset visual berkualitas tinggi sesuai kebutuhan proyek.\n- Berkomunikasi langsung dengan klien untuk memahami kebutuhan, menyelaraskan ekspektasi, dan memastikan kepuasan proyek.\n- Mengelola jadwal, komunikasi proyek, dan proses penyerahan aset dari brief hingga final delivery."
+    },
+    {
+      "id": "c7f3a1e9-6b25-4d8c-92f7-1a5e6b3d9c84",
+      "company": "Electronic Plus",
+      "position": "Asisten",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2021-09",
+      "endDate": "2022-05",
+      "current": false,
+      "description": "- Melakukan perawatan dan troubleshooting perangkat elektronik untuk mendukung operasional teknis.\n- Membantu pengujian hardware serta pemeriksaan kondisi perangkat sebelum dan sesudah penanganan.\n- Mendukung operasional layanan pelanggan dan pendampingan siswa magang."
+    },
+    {
+      "id": "d9b4e6f2-1c73-4a85-b6e9-3f7d2a1c8b56",
+      "company": "Electronic Plus",
+      "position": "Praktik Kerja Lapangan",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2020-09",
+      "endDate": "2020-12",
+      "current": false,
+      "description": "- Mendukung perawatan perangkat elektronik dan operasional pelayanan pelanggan.\n- Membantu teknisi melakukan inspeksi, pengujian, dan perbaikan perangkat elektronik."
+    }
+  ],
+  "education": [
+    {
+      "id": "e1a7c5d9-4b62-48f3-91e6-2c8a7d5b3f04",
+      "institution": "Universitas Teknologi Yogyakarta",
+      "degree": "Sarjana Informatika (S1)",
+      "field": "Informatika",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "current": false,
+      "gpa": "3.64 / 4.00",
+      "description": "Fokus pada Human-Computer Interaction (HCI), Rekayasa Perangkat Lunak, Pengembangan Aplikasi Web & Mobile, dan Basis Data."
+    },
+    {
+      "id": "f4b8d2e6-7a13-45c9-8e52-1d6f3b7a9c25",
+      "institution": "SMK Ma'arif 4 Kebumen",
+      "degree": "Teknik Audio Video",
+      "field": "Teknik Audio Video",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2019-07",
+      "endDate": "2022-06",
+      "current": false,
+      "gpa": "",
+      "description": "Mempelajari sistem elektronika, mikrokontroler, dan pemeliharaan perangkat sebagai fondasi teknis di bidang teknologi."
+    }
+  ],
+  "skills": [
+    {
+      "id": "1a6e3c8f-5b27-49d1-82f4-7c9e2b6d3a58",
+      "name": "Figma",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "2b7f4d9a-6c38-41e2-93a5-8d1f3b7e5c69",
+      "name": "Riset Pengguna",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "3c8e5a1b-7d49-42f3-84b6-9e2a4c8d6f71",
+      "name": "Alur Pengguna",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "4d9f6b2c-8e51-43a4-95c7-1f3b5d9e7a82",
+      "name": "Wireframing",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "5e1a7c3d-9f62-44b5-86d8-2a4c6e8f1b93",
+      "name": "Prototyping",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "6f2b8d4e-1a73-45c6-97e9-3b5d7f9a2c84",
+      "name": "Design System",
+      "category": "Desain UI/UX"
+    },
+    {
+      "id": "7a3c9e5f-2b84-46d7-81f3-4c6e8a1b5d95",
+      "name": "React.js",
+      "category": "Front-End"
+    },
+    {
+      "id": "8b4d1f6a-3c95-47e8-92a4-5d7f9b2c6e16",
+      "name": "Next.js",
+      "category": "Front-End"
+    },
+    {
+      "id": "9c5e2a7b-4d16-48f9-83b5-6e8a1c3d7f27",
+      "name": "Vue.js",
+      "category": "Front-End"
+    },
+    {
+      "id": "1d6f3b8c-5e27-49a1-94c6-7f9b2d4e8a38",
+      "name": "HTML5",
+      "category": "Front-End"
+    },
+    {
+      "id": "2e7a4c9d-6f38-41b2-85d7-8a1c3e5f9b49",
+      "name": "CSS3",
+      "category": "Front-End"
+    },
+    {
+      "id": "3f8b5d1e-7a49-42c3-96e8-9b2d4f6a1c50",
+      "name": "Tailwind CSS",
+      "category": "Front-End"
+    },
+    {
+      "id": "4a9c6e2f-8b51-43d4-87f9-1c3e5a7b2d61",
+      "name": "Bootstrap",
+      "category": "Front-End"
+    },
+    {
+      "id": "5b1d7f3a-9c62-44e5-98a1-2d4f6b8c3e72",
+      "name": "Flutter",
+      "category": "Mobile"
+    },
+    {
+      "id": "6c2e8a4b-1d73-45f6-89b2-3e5a7c9f4d83",
+      "name": "Dart",
+      "category": "Bahasa Pemrograman"
+    },
+    {
+      "id": "7d3f9b5c-2e84-46a7-91c3-4f6b8d1a5e94",
+      "name": "FastAPI",
+      "category": "Back-End"
+    },
+    {
+      "id": "8e4a1c6d-3f95-47b8-82d4-5a7c9e2b6f15",
+      "name": "Flask",
+      "category": "Back-End"
+    },
+    {
+      "id": "9f5b2d7e-4a16-48c9-93e5-6b8d1f3c7a26",
+      "name": "REST API",
+      "category": "Back-End"
+    },
+    {
+      "id": "1a6c3e8f-5b27-49d1-84f6-7c9e2b4d8a37",
+      "name": "PostgreSQL",
+      "category": "Basis Data"
+    },
+    {
+      "id": "2b7d4f9a-6c38-41e2-95a7-8d1f3b5e9c48",
+      "name": "MySQL",
+      "category": "Basis Data"
+    },
+    {
+      "id": "3c8e5a1b-7d49-42f3-86b8-9e2a4c6d1f59",
+      "name": "JavaScript",
+      "category": "Bahasa Pemrograman"
+    },
+    {
+      "id": "4d9f6b2c-8e51-43a4-97c9-1f3b5d7e2a60",
+      "name": "Python",
+      "category": "Bahasa Pemrograman"
+    },
+    {
+      "id": "5e1a7c3d-9f62-44b5-88d1-2a4c6e8f3b71",
+      "name": "Git",
+      "category": "Tools"
+    },
+    {
+      "id": "6f2b8d4e-1a73-45c6-99e2-3b5d7f9a4c82",
+      "name": "GitHub",
+      "category": "Tools"
+    },
+    {
+      "id": "7a3c9e5f-2b84-46d7-81f3-4c6e8a1b5d93",
+      "name": "VS Code",
+      "category": "Tools"
+    },
+    {
+      "id": "8b4d1f6a-3c95-47e8-92a4-5d7f9b2c6e14",
+      "name": "Postman",
+      "category": "Tools"
+    },
+    {
+      "id": "9c5e2a7b-4d16-48f9-83b5-6e8a1c3d7f25",
+      "name": "Canva",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1d6f3b8c-5e27-49a1-94c6-7f9b2d4e8a36",
+      "name": "VitaCal – Aplikasi Pemantauan Kalori dan Nutrisi",
+      "role": "Desainer UI/UX · Pengembang Front-End · Pengembang Mobile (Android)",
+      "technologies": [
+        "Figma",
+        "Flutter",
+        "Dart",
+        "REST API",
+        "PostgreSQL"
+      ],
+      "url": "",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "description": "- Memimpin proses desain produk mulai dari riset pengguna, alur pengguna, dan wireframing hingga prototype high-fidelity menggunakan Figma dengan pendekatan berpusat pada pengguna.\n- Mengembangkan aplikasi Android menggunakan Flutter dan Dart, termasuk fitur perhitungan BMI, BMR, dan TDEE berbasis algoritma Mifflin-St Jeor.\n- Mengintegrasikan REST API dan PostgreSQL untuk mendukung pengelolaan data pengguna dan riwayat konsumsi harian."
+    },
+    {
+      "id": "2e7a4c9d-6f38-41b2-85d7-8a1c3e5f9b47",
+      "name": "FrameFlow – Platform Seleksi Foto Klien untuk Fotografer",
+      "role": "Pengembang Full-Stack",
+      "technologies": [],
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "- Merancang dan mengembangkan platform full-stack yang memungkinkan fotografer mengelola galeri dan klien memilih foto secara efisien.\n- Mengubah alur kerja manual berbasis chat menjadi proses seleksi foto yang lebih terstruktur melalui aplikasi web."
+    }
+  ],
+  "certifications": [],
+  "organizations": [
+    {
+      "id": "3f8b5d1e-7a49-42c3-96e8-9b2d4f6a1c58",
+      "organization": "UKM Campoer Seni (Fotografi) | Universitas Teknologi Yogyakarta",
+      "position": "Koordinator Pendidikan",
+      "startDate": "2024-09",
+      "endDate": "2025-09",
+      "current": false,
+      "description": "- Memimpin dan mengoordinasikan program pendidikan serta pengembangan kompetensi anggota di bidang fotografi.\n- Menyusun kurikulum, materi pelatihan, dan kegiatan pembelajaran untuk mendukung peningkatan keterampilan anggota baru.\n- Berkolaborasi dengan pengurus dan anggota dalam perencanaan serta pelaksanaan program kerja organisasi.\n- Mengembangkan kepemimpinan, komunikasi, manajemen kegiatan, dan koordinasi tim melalui kegiatan organisasi dan proyek kreatif."
+    }
+  ],
+  "optionalSections": {
+    "languages": {
+      "enabled": false,
+      "items": []
+    },
+    "awards": {
+      "enabled": false,
+      "items": []
+    },
+    "courses": {
+      "enabled": false,
+      "items": []
+    },
+    "licenses": {
+      "enabled": false,
+      "items": []
+    },
+    "volunteer": {
+      "enabled": false,
+      "items": []
+    },
+    "publications": {
+      "enabled": false,
+      "items": []
+    },
+    "portfolio": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "4a9c6e2f-8b51-43d4-87f9-1c3e5a7b2d60",
+          "label": "Portofolio Pribadi",
+          "url": "https://ariyoaziz.github.io/"
+        },
+        {
+          "id": "1573ac61-ef71-494d-8877-5b560d258d13",
+          "label": "Linkedln",
+          "url": "https://www.linkedin.com/in/ariyo-aziz-pratama/"
+        }
+      ]
+    },
+    "references": {
+      "enabled": false,
+      "onDemand": false,
+      "items": []
+    },
+    "interests": {
+      "enabled": false,
+      "items": []
+    }
+  }
+}

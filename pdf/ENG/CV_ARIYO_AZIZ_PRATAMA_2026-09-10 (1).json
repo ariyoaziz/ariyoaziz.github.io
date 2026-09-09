@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "metadata": {
+    "id": "6f3d2c81-7e4a-4b91-9c62-1a5e8d7043f9",
+    "createdAt": "2026-09-08T00:02:33.000Z",
+    "updatedAt": "2026-09-09T18:27:24.313Z",
+    "templateId": "classic",
+    "accentColor": "#1F2937",
+    "typography": "serif",
+    "sectionOrder": [
+      "summary",
+      "experience",
+      "education",
+      "skills",
+      "projects",
+      "certifications",
+      "organizations",
+      "portfolio",
+      "languages",
+      "awards",
+      "courses",
+      "licenses",
+      "volunteer",
+      "publications",
+      "references",
+      "interests"
+    ],
+    "sectionLabels": {}
+  },
+  "personalInfo": {
+    "fullName": "ARIYO AZIZ PRATAMA",
+    "headline": "Product Designer | Front-End Engineer | Flutter Developer",
+    "email": "ariyoaziz.pratama@gmail.com",
+    "phone": "+62 858 7874 3545",
+    "location": "Sleman, Daerah Istimewa Yogyakarta, Indonesia",
+    "linkedin": "",
+    "github": "",
+    "website": "https://ariyoaziz.github.io/",
+    "showFullLinks": false,
+    "photoUrl": ""
+  },
+  "summary": {
+    "summary": "Informatics graduate with a focus on Product Design, Front-End Development, and Flutter Development. Experienced in designing and developing digital products through user research, information architecture, user flows, wireframing, prototyping, design systems, and design QA. Capable of implementing web and mobile applications using React.js, Next.js, and Flutter while combining user-centered design principles with technical development skills to create intuitive, responsive, and functional digital experiences."
+  },
+  "experience": [
+    {
+      "id": "a7c91e42-5b63-4d18-8f27-3e6a90c154bd",
+      "company": "PT Vortex Buana Edumedia",
+      "position": "Product Designer - Internship",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2026-07",
+      "endDate": "",
+      "current": true,
+      "description": "- Designed end-to-end digital product experiences for NEON UJI, covering product understanding, UX problem solving, task flows, and high-fidelity UI design.\n- Applied HMW, Crazy 8s, and prioritization matrices to explore and evaluate UX solutions based on product requirements and user needs.\n- Utilized design systems and prepared design specifications to maintain consistency and support accurate developer handoff.\n- Conducted Design QA across responsive behavior, interaction states, typography, spacing, accessibility, content, assets, and motion to ensure implementation quality.\n- Collaborated with cross-functional teams to translate product requirements into intuitive and implementation-ready product experiences."
+    },
+    {
+      "id": "c42f7a91-8e35-4b26-9d17-5a63e0c841fb",
+      "company": "Freelance",
+      "position": "Freelance Photographer",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-01",
+      "endDate": "",
+      "current": true,
+      "description": "- Plan and execute photography projects for individual and business clients.\n- Edit and deliver high-quality visual assets according to project requirements.\n- Communicate directly with clients to understand requirements, align expectations, and ensure project satisfaction.\n- Manage project timelines, client communication, and asset delivery from initial brief through final delivery."
+    },
+    {
+      "id": "d58b3e27-1c64-4f90-a825-7b31e6c9425d",
+      "company": "Electronic Plus",
+      "position": "Assistant",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2021-09",
+      "endDate": "2022-05",
+      "current": false,
+      "description": "- Perform maintenance and troubleshooting of electronic devices to support technical operations.\n- Assist with hardware testing and inspect device conditions before and after servicing.\n- Support customer service operations and assist with mentoring internship students."
+    },
+    {
+      "id": "e63a4f18-9b72-4c35-8d06-2e51a7f943cb",
+      "company": "Electronic Plus",
+      "position": "Praktik Kerja Lapangan",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2020-09",
+      "endDate": "2020-12",
+      "current": false,
+      "description": "- Support electronic device maintenance and customer service operations.\n- Assist technicians with device inspection, testing, and repair activities."
+    }
+  ],
+  "education": [
+    {
+      "id": "f71c2e49-6a83-4d15-9b27-5e04c861a3f2",
+      "institution": "Universitas Teknologi Yogyakarta",
+      "degree": "Sarjana Informatika (S1)",
+      "field": "Informatika",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "current": false,
+      "gpa": "3.64 / 4.00",
+      "description": "Focused on Human-Computer Interaction (HCI), Software Engineering, Web and Mobile Application Development, and Databases."
+    },
+    {
+      "id": "b84e1c63-2f97-4a50-8d31-6c75e9f204ab",
+      "institution": "SMK Ma'arif 4 Kebumen",
+      "degree": "Teknik Audio Video",
+      "field": "Teknik Audio Video",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2019-07",
+      "endDate": "2022-06",
+      "current": false,
+      "gpa": "",
+      "description": "Studied electronic systems, microcontrollers, and device maintenance as a technical foundation in technology."
+    }
+  ],
+  "skills": [
+    {
+      "id": "c91e3a72-4f58-4b16-9d20-7a63e8512c04",
+      "name": "Figma",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "d25f8b41-6c93-47a0-8e15-3b72f9641ac5",
+      "name": "User Research",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "e47a1c83-9b52-4d06-8f31-6c95e270a4bd",
+      "name": "User Flow",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "f63b2e94-7a15-48c0-9d26-5e81a374b9c6",
+      "name": "Wireframing",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "a82d4f61-3c97-4e15-8b20-6a53f9d274ce",
+      "name": "Prototyping",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "b16e5a73-8c42-4d09-9f31-7a64e2503bd8",
+      "name": "Design System",
+      "category": "UI/UX Design"
+    },
+    {
+      "id": "c38f7b24-5e91-46a0-8d15-2b73e9641fc5",
+      "name": "React.js",
+      "category": "Frontend"
+    },
+    {
+      "id": "d54a2e81-7c36-4f09-9b25-6e83f170a4cd",
+      "name": "Next.js",
+      "category": "Frontend"
+    },
+    {
+      "id": "e72c5f43-1a86-4d90-8b27-3f61e9542ac0",
+      "name": "Vue.js",
+      "category": "Frontend"
+    },
+    {
+      "id": "f49b1d62-8e35-47a0-9c16-5a72e304b8df",
+      "name": "HTML5",
+      "category": "Frontend"
+    },
+    {
+      "id": "a65e3c91-4b27-48f0-8d13-7e52b9641ac6",
+      "name": "CSS3",
+      "category": "Frontend"
+    },
+    {
+      "id": "b73f5a24-9c61-4e08-8d35-2a76e194c0fb",
+      "name": "Tailwind CSS",
+      "category": "Frontend"
+    },
+    {
+      "id": "c86d2e51-7a43-4f09-9b25-6e13f870a4dc",
+      "name": "Bootstrap",
+      "category": "Frontend"
+    },
+    {
+      "id": "d91e4a73-5c28-46b0-8f31-7a64e2503bd9",
+      "name": "Flutter",
+      "category": "Mobile"
+    },
+    {
+      "id": "e24f6b81-3a95-4d07-8c16-5e73a942b0cd",
+      "name": "Dart",
+      "category": "Mobile / Languages"
+    },
+    {
+      "id": "f58c2e43-7b16-49a0-8d25-3e61f974c2ab",
+      "name": "FastAPI",
+      "category": "Backend"
+    },
+    {
+      "id": "a31d5f72-8c64-4b09-9e25-6a73f140c8bd",
+      "name": "Flask",
+      "category": "Backend"
+    },
+    {
+      "id": "b47e1c93-5a82-46d0-8f31-2e64a970c5bd",
+      "name": "REST API",
+      "category": "Backend"
+    },
+    {
+      "id": "c62f4a81-9b35-47e0-8d16-5a73e294c0bf",
+      "name": "PostgreSQL",
+      "category": "Database"
+    },
+    {
+      "id": "d85a2e63-4c71-49f0-8b25-6e13f970a4cd",
+      "name": "MySQL",
+      "category": "Database"
+    },
+    {
+      "id": "e16c5b94-7a32-48d0-9f25-3e64a871c0bd",
+      "name": "JavaScript",
+      "category": "Languages"
+    },
+    {
+      "id": "f43e7a21-6c95-4d08-8b32-5e71a964c0af",
+      "name": "Python",
+      "category": "Languages"
+    },
+    {
+      "id": "a57c2e83-9b41-46d0-8f25-6e73a194c0bd",
+      "name": "Git",
+      "category": "Tools"
+    },
+    {
+      "id": "b64f1a72-5c83-4e09-9d26-7a31e850c4bf",
+      "name": "GitHub",
+      "category": "Tools"
+    },
+    {
+      "id": "c92e5b41-7a36-48d0-8f15-3e64a971c0bd",
+      "name": "VS Code",
+      "category": "Tools"
+    },
+    {
+      "id": "d38f7a25-6c91-4e08-9b32-5a73e164c0bf",
+      "name": "Postman",
+      "category": "Tools"
+    },
+    {
+      "id": "e51c2a83-9b47-46d0-8f25-6e73a194c0bd",
+      "name": "Canva",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": "f74b2e61-8c35-49d0-9a16-5e73c204b8df",
+      "name": "VitaCal – Calorie and Nutrition Monitoring Application",
+      "role": "UI/UX Designer · Frontend Developer · Mobile Developer (Android)",
+      "technologies": [
+        "Figma",
+        "Flutter",
+        "Dart",
+        "REST API",
+        "PostgreSQL"
+      ],
+      "url": "",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "description": "- Lead the product design process from user research, user flows, and wireframing through high-fidelity prototyping in Figma using a user-centered design approach.\n- Develop the Android application using Flutter and Dart, including BMI, BMR, and TDEE calculation features based on the Mifflin-St Jeor algorithm.\n- Integrate REST API and PostgreSQL to support user data management and daily consumption history."
+    },
+    {
+      "id": "a83e5c21-7b46-4d09-9f25-6c71e294b0ad",
+      "name": "FrameFlow – Client Photo Selection Platform for Photographers",
+      "role": "Full-Stack Developer",
+      "technologies": [],
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "- Design and develop a full-stack platform that enables photographers to manage galleries and allows clients to select photos efficiently.\n- Transform manual, chat-based workflows into a more structured photo selection process through a web application."
+    }
+  ],
+  "certifications": [],
+  "organizations": [
+    {
+      "id": "b52f7a31-9c64-4e08-8d25-6a73e194c0bf",
+      "organization": "UKM Campoer Seni (Fotografi) | Universitas Teknologi Yogyakarta",
+      "position": "Koordinator Pendidikan",
+      "startDate": "2024-09",
+      "endDate": "2025-09",
+      "current": false,
+      "description": "- Lead and coordinate education programs and member competency development in photography.\n- Develop curricula, training materials, and learning activities to support the development of new members' skills.\n- Collaborate with organizational administrators and members to plan and execute work programs.\n- Develop leadership, communication, activity management, and team coordination skills through organizational activities and creative projects."
+    }
+  ],
+  "optionalSections": {
+    "languages": {
+      "enabled": false,
+      "items": []
+    },
+    "awards": {
+      "enabled": false,
+      "items": []
+    },
+    "courses": {
+      "enabled": false,
+      "items": []
+    },
+    "licenses": {
+      "enabled": false,
+      "items": []
+    },
+    "volunteer": {
+      "enabled": false,
+      "items": []
+    },
+    "publications": {
+      "enabled": false,
+      "items": []
+    },
+    "portfolio": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "c68e3a91-5f27-4d08-9b36-7a14e250c8bf",
+          "label": "Personal Portfolio",
+          "url": "https://ariyoaziz.github.io/"
+        },
+        {
+          "id": "088ed9c6-4886-40fb-9c4f-22e22bcf3c44",
+          "label": "Linkedln",
+          "url": "https://www.linkedin.com/in/ariyo-aziz-pratama/"
+        }
+      ]
+    },
+    "references": {
+      "enabled": false,
+      "onDemand": false,
+      "items": []
+    },
+    "interests": {
+      "enabled": false,
+      "items": []
+    }
+  }
+}
