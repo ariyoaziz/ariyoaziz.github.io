@@ -1,0 +1,1 @@
+.scrollbar-none[data-v-49087dce]::-webkit-scrollbar{display:none}.scrollbar-none[data-v-49087dce]{-ms-overflow-style:none;scrollbar-width:none}.project-card[data-v-49087dce]{animation:cardFadeUp-49087dce .5s ease-out both;animation-delay:var(--delay, 0s)}@keyframes cardFadeUp-49087dce{0%{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
