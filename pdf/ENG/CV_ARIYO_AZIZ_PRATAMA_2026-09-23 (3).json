@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "metadata": {
+    "id": "6f3d2c81-7e4a-4b91-9c62-1a5e8d7043f9",
+    "createdAt": "2026-09-08T00:02:33.000Z",
+    "updatedAt": "2026-09-22T19:21:45.163Z",
+    "templateId": "classic",
+    "accentColor": "#1F2937",
+    "typography": "serif",
+    "sectionOrder": [
+      "summary",
+      "experience",
+      "education",
+      "projects",
+      "certifications",
+      "organizations",
+      "skills",
+      "portfolio",
+      "languages",
+      "awards",
+      "courses",
+      "licenses",
+      "volunteer",
+      "publications",
+      "references",
+      "interests"
+    ],
+    "sectionLabels": {}
+  },
+  "personalInfo": {
+    "fullName": "ARIYO AZIZ PRATAMA",
+    "headline": "Product Designer| Flutter Developer",
+    "email": "ariyoaziz.pratama@gmail.com",
+    "phone": "+62 858 7874 3545",
+    "location": "Sleman, Daerah Istimewa Yogyakarta, Indonesia",
+    "linkedin": "https://linkedin.com/in/ariyo-aziz-pratama",
+    "github": "",
+    "website": "https://ariyoaziz.github.io/",
+    "showFullLinks": true,
+    "photoUrl": ""
+  },
+  "summary": {
+    "summary": "Informatics graduate and Product Designer focused on creating intuitive, user-centered digital products from problem understanding to high-fidelity UI and developer handoff. Experienced in user flows, wireframing, prototyping, design systems, and design QA, with hands-on experience in Flutter and front-end development that helps bridge design and implementation and enables effective collaboration with engineers."
+  },
+  "experience": [
+    {
+      "id": "a7c91e42-5b63-4d18-8f27-3e6a90c154bd",
+      "company": "PT Vortex Buana Edumedia",
+      "position": "Product Designer - Internship",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2026-07",
+      "endDate": "",
+      "current": true,
+      "description": "- Designed end-to-end digital product experiences for NEON UJI, covering product understanding, UX problem solving, task flows, and high-fidelity UI design.\n- Explored and evaluated UX solutions using HMW, Crazy 8s, and prioritization methods to translate product requirements and user needs into actionable design directions.\n- Utilized design systems and prepared design specifications to maintain consistency and support accurate developer handoff.\n- Conducted Design QA across responsive behavior, interaction states, typography, spacing, accessibility, content, assets, and motion to ensure implementation quality.\n- Collaborated with cross-functional teams to translate product requirements into intuitive and implementation-ready product experiences."
+    },
+    {
+      "id": "c42f7a91-8e35-4b26-9d17-5a63e0c841fb",
+      "company": "Freelance",
+      "position": "Freelance Photographer",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-01",
+      "endDate": "",
+      "current": true,
+      "description": "- Manage photography projects from client brief and requirement alignment through final asset delivery.\n- Communicate directly with clients to understand requirements, manage expectations, and deliver visual assets according to project needs."
+    }
+  ],
+  "education": [
+    {
+      "id": "f71c2e49-6a83-4d15-9b27-5e04c861a3f2",
+      "institution": "Universitas Teknologi Yogyakarta",
+      "degree": "Sarjana Informatika (S1)",
+      "field": "Informatika",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "current": false,
+      "gpa": "3.64 / 4.00",
+      "description": "Focused on Human-Computer Interaction (HCI), Software Engineering, Web and Mobile Application Development, and Databases."
+    },
+    {
+      "id": "b84e1c63-2f97-4a50-8d31-6c75e9f204ab",
+      "institution": "SMK Ma'arif 4 Kebumen",
+      "degree": "Teknik Audio Video",
+      "field": "Teknik Audio Video",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2019-07",
+      "endDate": "2022-06",
+      "current": false,
+      "gpa": "",
+      "description": "Studied electronic systems, microcontrollers, and device maintenance as a technical foundation."
+    }
+  ],
+  "skills": [
+    {
+      "id": "a8e88a59-8702-42a2-a83a-db6cc551a549",
+      "name": "Figma",
+      "category": "Product Design"
+    },
+    {
+      "id": "9691b61a-15ef-4f42-ab18-44709037a05e",
+      "name": "User Research",
+      "category": "Product Design"
+    },
+    {
+      "id": "36163977-a506-436f-b502-95479112c925",
+      "name": "Information Architecture",
+      "category": "Product Design"
+    },
+    {
+      "id": "54c31569-2696-4591-9e7d-e51813fc7df1",
+      "name": "User Flow",
+      "category": "Product Design"
+    },
+    {
+      "id": "eb014176-2aa9-4982-bcaa-1a7d45515586",
+      "name": "Wireframing",
+      "category": "Product Design"
+    },
+    {
+      "id": "9fc78bc0-1602-4d6d-b954-1cf38625aa4b",
+      "name": "Prototyping",
+      "category": "Product Design"
+    },
+    {
+      "id": "8e2ad682-75d1-44ee-b9e0-5aac19dc64a8",
+      "name": "Design System",
+      "category": "Product Design"
+    },
+    {
+      "id": "3178ee92-5d2b-4330-9744-e184e6cc3cc8",
+      "name": "Design QA",
+      "category": "Product Design"
+    },
+    {
+      "id": "fc45a6a9-c38a-42d7-8c02-f6b0a7836b31",
+      "name": "Codex",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "11b4b4f1-0b97-4ec5-afec-89c8422bae84",
+      "name": "Antigravity",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "951f2096-2e08-4203-ad19-70614a9e701d",
+      "name": "ChatGPT",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "f99f1844-32e0-4dee-b6d4-166bef374d1b",
+      "name": "Gemini",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "1ac953bb-36d9-4475-b847-e1946b198f0c",
+      "name": "Git",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "6ff4981a-9719-4e6b-853c-ac85731950a0",
+      "name": "GitHub",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "2991c74b-39d4-4d40-aab0-bb15863466d1",
+      "name": "Postman",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "a8086c2d-e9b8-4fdf-9408-1188c48c5343",
+      "name": "VS Code",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "714a6065-fd64-4926-8a2d-ff2cc5f16898",
+      "name": "Flutter",
+      "category": "Development"
+    },
+    {
+      "id": "af5f501c-5df6-4afa-9b83-54bf6b96fde2",
+      "name": "Dart",
+      "category": "Development"
+    },
+    {
+      "id": "4ea7fb7c-fcad-4e2b-96e3-e5227b6b7862",
+      "name": "React",
+      "category": "Development"
+    },
+    {
+      "id": "c6f32d3e-541e-4353-a239-0fd1d9c2fae7",
+      "name": "Next.js",
+      "category": "Development"
+    },
+    {
+      "id": "1c947a6f-eb26-435e-a2be-5f327bb81c16",
+      "name": "HTML",
+      "category": "Development"
+    },
+    {
+      "id": "e8846a3f-305b-4423-bf59-c3b128b3ff45",
+      "name": "CSS",
+      "category": "Development"
+    },
+    {
+      "id": "d5b24db0-7748-412f-ae98-03551f89f33b",
+      "name": "JavaScript",
+      "category": "Development"
+    },
+    {
+      "id": "b9d1065d-1523-4a91-8204-e4e7ccb600ed",
+      "name": "REST API",
+      "category": "Development"
+    },
+    {
+      "id": "2588c487-c8e2-425f-a83c-ac9085ed507b",
+      "name": "PostgreSQL",
+      "category": "Technical"
+    },
+    {
+      "id": "4c67ac85-ddae-4937-84b3-51e402898f54",
+      "name": "MySQL",
+      "category": "Technical"
+    },
+    {
+      "id": "af329b97-c5f4-458e-89f7-522cd001396b",
+      "name": "FastAPI",
+      "category": "Technical"
+    },
+    {
+      "id": "908fcfb0-e538-4687-bda4-dde7e95be597",
+      "name": "Flask",
+      "category": "Technical"
+    }
+  ],
+  "projects": [
+    {
+      "id": "f74b2e61-8c35-49d0-9a16-5e73c204b8df",
+      "name": "VitaCal – Calorie and Nutrition Monitoring Application",
+      "role": "Product Designer · Flutter Developer",
+      "technologies": [
+        "Figma",
+        "Flutter",
+        "Dart",
+        "Flask",
+        "REST API",
+        "PostgreSQL",
+        "Open Food Facts API",
+        "Fonnte"
+      ],
+      "url": "",
+      "startDate": "2025-09",
+      "endDate": "2026-08",
+      "description": "Designed the end-to-end product experience from user research, user flows, and wireframing to high-fidelity prototyping, establishing a structured and user-centered experience for calorie and nutrition tracking.\nDesigned and developed the Android application using Flutter and Dart, implementing BMI, BMR, and TDEE calculations based on the Mifflin-St Jeor equation for personalized calorie and nutrition assessment.\nDeveloped the Flask backend and PostgreSQL data layer to support user profiles and daily consumption history.\nIntegrated Open Food Facts API for barcode-based food identification and nutritional data retrieval, and Fonnte for OTP-based user verification.\nUsed Kaggle datasets as a data source to support food and nutrition data preparation during product development."
+    },
+    {
+      "id": "a83e5c21-7b46-4d09-9f25-6c71e294b0ad",
+      "name": "FrameFlow – Client Photo Selection Platform for Photographers",
+      "role": "Product Designer · Developer",
+      "technologies": [
+        "Next.js",
+        "Hono"
+      ],
+      "url": "https://frameflow.weareaap.workers.dev/",
+      "startDate": "2026-03",
+      "endDate": "2026-05",
+      "description": "Identified and translated manual, chat-based photo selection workflows into a structured digital product experience for photographers and clients.\nDesigned user flows and interfaces for gallery management and photo selection, creating a clearer and more organized client selection process.\nDeveloped and managed the platform using Next.js and Hono, with 19 registered users and 3 paid subscribers (2 monthly, 1 annual), while managing product operations as a Super Admin."
+    }
+  ],
+  "certifications": [],
+  "organizations": [
+    {
+      "id": "b52f7a31-9c64-4e08-8d25-6a73e194c0bf",
+      "organization": "UKM Campoer Seni (Fotografi) | Universitas Teknologi Yogyakarta",
+      "position": "Member → Koordinator Pendidikan",
+      "startDate": "2023-01",
+      "endDate": "2025-09",
+      "current": false,
+      "description": "Coordinated the Photography Education Program (2024–2025) as Koordinator Pendidikan, planning and managing training activities for new members.\nLed the Grand Photography Exhibition 2025 as Project Lead at Teras Malioboro.\nOrganized the Basic Photography Education Exhibition 2023 at Leman Art Space and served as a committee member for the Grand Photography Exhibition 2024 at Langgeng Art Foundation.\nCollaborated with cross-functional teams to organize photography exhibitions and creative educational programs."
+    }
+  ],
+  "optionalSections": {
+    "languages": {
+      "enabled": false,
+      "items": []
+    },
+    "awards": {
+      "enabled": false,
+      "items": []
+    },
+    "courses": {
+      "enabled": false,
+      "items": []
+    },
+    "licenses": {
+      "enabled": false,
+      "items": []
+    },
+    "volunteer": {
+      "enabled": false,
+      "items": []
+    },
+    "publications": {
+      "enabled": false,
+      "items": []
+    },
+    "portfolio": {
+      "enabled": false,
+      "items": [
+        {
+          "id": "c68e3a91-5f27-4d08-9b36-7a14e250c8bf",
+          "label": "Personal Portfolio",
+          "url": "https://ariyoaziz.github.io/"
+        },
+        {
+          "id": "088ed9c6-4886-40fb-9c4f-22e22bcf3c44",
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ariyo-aziz-pratama/"
+        }
+      ]
+    },
+    "references": {
+      "enabled": false,
+      "onDemand": false,
+      "items": []
+    },
+    "interests": {
+      "enabled": false,
+      "items": []
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "metadata": {
+    "id": "8e6136d9-8c97-457c-8d55-80aa43f49a8c",
+    "createdAt": "2026-09-22T19:25:33.048Z",
+    "updatedAt": "2026-09-22T19:26:53.720Z",
+    "templateId": "classic",
+    "accentColor": "#537FE7",
+    "typography": "inter",
+    "sectionOrder": [
+      "summary",
+      "experience",
+      "education",
+      "skills",
+      "projects",
+      "certifications",
+      "organizations",
+      "portfolio",
+      "languages",
+      "awards",
+      "courses",
+      "licenses",
+      "volunteer",
+      "publications",
+      "references",
+      "interests"
+    ],
+    "sectionLabels": {}
+  },
+  "personalInfo": {
+    "fullName": "ARIYO AZIZ PRATAMA",
+    "headline": "PRODUCT DESIGNER | FLUTTER DEVELOPER",
+    "email": "ariyoaziz.pratama@gmail.com",
+    "phone": "+62 858 7874 3545",
+    "location": "Sleman, Daerah Istimewa Yogyakarta, Indonesia",
+    "linkedin": "https://linkedin.com/in/ariyo-aziz-pratama",
+    "github": "",
+    "website": "https://ariyoaziz.github.io/",
+    "showFullLinks": true,
+    "photoUrl": ""
+  },
+  "summary": {
+    "summary": "Lulusan Informatika dan Desainer Produk yang berfokus pada menciptakan produk digital yang intuitif dan berpusat pada pengguna, mulai dari memahami masalah hingga menghasilkan UI dengan fidelitas tinggi dan serah terima kepada developer. Berpengalaman dalam user flow, wireframing, prototyping, design system, dan Design QA, dengan pengalaman langsung dalam pengembangan menggunakan Flutter dan teknologi front-end yang membantu menjembatani proses desain dan implementasi serta mendukung kolaborasi yang efektif dengan engineer."
+  },
+  "experience": [
+    {
+      "id": "fb73ae13-2574-4630-910a-1f8e80a16973",
+      "company": "PT Vortex Buana Edumedia",
+      "position": "Desainer Produk - Magang",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2026-07",
+      "endDate": "",
+      "current": true,
+      "description": "- Merancang pengalaman produk digital secara end-to-end untuk NEON UJI, mencakup pemahaman produk, pemecahan masalah UX, task flow, hingga desain UI dengan fidelitas tinggi.\n- Mengeksplorasi dan mengevaluasi solusi UX menggunakan HMW, Crazy 8s, dan metode prioritisasi untuk menerjemahkan kebutuhan produk dan pengguna menjadi arahan desain yang dapat ditindaklanjuti.\n- Memanfaatkan design system dan menyiapkan spesifikasi desain untuk menjaga konsistensi serta mendukung proses serah terima kepada developer secara akurat.\n- Melakukan Design QA pada aspek responsive behavior, interaction states, tipografi, spacing, aksesibilitas, konten, aset, dan motion untuk memastikan kualitas implementasi.\n- Berkolaborasi dengan tim lintas fungsi untuk menerjemahkan kebutuhan produk menjadi pengalaman produk yang intuitif dan siap diimplementasikan."
+    },
+    {
+      "id": "f283411d-c27d-4b2e-a581-f6d7b8527c2a",
+      "company": "Freelance",
+      "position": "Fotografer Lepas",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-01",
+      "endDate": "",
+      "current": true,
+      "description": "- Mengelola proyek fotografi mulai dari memahami brief dan menyelaraskan kebutuhan klien hingga proses pengiriman aset akhir.\n- Berkomunikasi langsung dengan klien untuk memahami kebutuhan, mengelola ekspektasi, dan menghasilkan aset visual sesuai kebutuhan proyek."
+    }
+  ],
+  "education": [
+    {
+      "id": "011ecd91-fd74-45d3-a8ba-54f18d53c3dc",
+      "institution": "Universitas Teknologi Yogyakarta",
+      "degree": "Sarjana Informatika (S1)",
+      "field": "Informatika",
+      "location": "Yogyakarta, Indonesia",
+      "startDate": "2022-09",
+      "endDate": "2026-08",
+      "current": false,
+      "gpa": "3.64 / 4.00",
+      "description": "Berfokus pada Human-Computer Interaction (HCI), Rekayasa Perangkat Lunak, Pengembangan Aplikasi Web dan Mobile, serta Basis Data."
+    },
+    {
+      "id": "8419c19e-bad3-4c1a-b148-7cd57219c60a",
+      "institution": "SMK Ma'arif 4 Kebumen",
+      "degree": "Teknik Audio Video",
+      "field": "Teknik Audio Video",
+      "location": "Kebumen, Jawa Tengah, Indonesia",
+      "startDate": "2019-07",
+      "endDate": "2022-06",
+      "current": false,
+      "gpa": "",
+      "description": "Mempelajari sistem elektronika, mikrokontroler, dan pemeliharaan perangkat sebagai dasar keterampilan teknis."
+    }
+  ],
+  "skills": [
+    {
+      "id": "c0767242-7ba5-45fb-b7bd-5c5d1359e192",
+      "name": "Figma",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "0e6c68e0-03c6-4703-bd56-787a8733647c",
+      "name": "User Research",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "1d348118-9ec9-4764-90b7-14307891f94d",
+      "name": "Information Architecture",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "9a9e0097-4aa4-411b-9ae8-b4207cb0199b",
+      "name": "User Flow",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "7af02c77-04ca-4923-94c2-1e99f7a29d2d",
+      "name": "Wireframing",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "76da1ad8-0f82-4c74-99dd-323b87077ca0",
+      "name": "Prototyping",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "5d8def41-61f5-4923-b711-d3e7c8932281",
+      "name": "Design System",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "433bd74b-d4e7-48dd-8385-6afebbcd3bc9",
+      "name": "Design QA",
+      "category": "Desain Produk"
+    },
+    {
+      "id": "245ffb38-2f9a-48b9-a867-454883f1161c",
+      "name": "Flutter",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "d32c5de2-72f9-45d5-a2e7-0a50d9f43564",
+      "name": "Dart",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "136f91e3-1274-4e01-8707-6e0668a634f0",
+      "name": "React",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "4db668a3-9ada-4eab-9e6d-57949a1ec1a6",
+      "name": "Next.js",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "e01d5b61-d591-45b8-845b-8eb78e9c763c",
+      "name": "HTML",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "701985cc-7804-4a02-accd-18f0067b046e",
+      "name": "CSS",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "70f7722b-3976-4c23-92b1-f7b48ba59b94",
+      "name": "JavaScript",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "35707d2e-94ce-41e3-8dae-27e8b88c43fd",
+      "name": "REST API",
+      "category": "Pengembangan"
+    },
+    {
+      "id": "11b699e8-881b-4d00-b9e1-d5e019642cbd",
+      "name": "PostgreSQL",
+      "category": "Teknis"
+    },
+    {
+      "id": "e523be42-3911-45ac-937f-25f5adf8e2bb",
+      "name": "MySQL",
+      "category": "Teknis"
+    },
+    {
+      "id": "1c1f8110-539e-488c-9cc7-1bc6bb36b45c",
+      "name": "FastAPI",
+      "category": "Teknis"
+    },
+    {
+      "id": "b465c8f7-8cb7-4561-957f-083331aefd4d",
+      "name": "Flask",
+      "category": "Teknis"
+    },
+    {
+      "id": "144f9611-1bff-4146-9a5e-a8b6ce9f992d",
+      "name": "Codex",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "0dad39d8-83a2-4fe8-a359-e3bb10aab0a2",
+      "name": "Antigravity",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "ff779421-53b7-47b3-ae5c-478656af7628",
+      "name": "ChatGPT",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "bcdf622d-c7fd-45a8-a15a-219473df6a29",
+      "name": "Gemini",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "5c52cc7a-5d47-4e66-a85c-55e5e6260d98",
+      "name": "Git",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "6c742605-8553-4282-b656-d3e50f4c3faf",
+      "name": "GitHub",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "9671bff2-1c53-48a1-82da-5add2f8e3b9d",
+      "name": "Postman",
+      "category": "AI & Tools"
+    },
+    {
+      "id": "79cfd108-19b2-490c-a2ff-784b5aec9649",
+      "name": "VS Code",
+      "category": "AI & Tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": "0c7cb073-42a4-46b3-8e7f-f9e69e94f4ef",
+      "name": "VitaCal – Aplikasi Pemantauan Kalori dan Nutrisi",
+      "role": "Desainer Produk · Pengembang Flutter",
+      "technologies": [
+        "Figma",
+        "Flutter",
+        "Dart",
+        "Flask",
+        "REST API",
+        "PostgreSQL",
+        "Open Food Facts API",
+        "Fonnte"
+      ],
+      "url": "",
+      "startDate": "2025-09",
+      "endDate": "2026-08",
+      "description": "- Merancang pengalaman produk secara end-to-end mulai dari user research, user flow, dan wireframing hingga high-fidelity prototyping untuk membangun pengalaman yang terstruktur dan berpusat pada pengguna dalam pemantauan kalori dan nutrisi.\n- Merancang dan mengembangkan aplikasi Android menggunakan Flutter dan Dart, termasuk implementasi perhitungan BMI, BMR, dan TDEE berdasarkan persamaan Mifflin-St Jeor untuk mendukung penilaian kebutuhan kalori dan nutrisi secara personal.\n- Mengembangkan backend Flask dan data layer PostgreSQL untuk mendukung pengelolaan profil pengguna dan riwayat konsumsi harian.\n- Mengintegrasikan Open Food Facts API untuk identifikasi makanan berbasis barcode dan pengambilan data nutrisi, serta Fonnte untuk verifikasi pengguna berbasis OTP.\n- Memanfaatkan dataset dari Kaggle sebagai sumber data untuk mendukung proses persiapan data makanan dan nutrisi selama pengembangan produk."
+    },
+    {
+      "id": "73e52934-e891-4355-83b4-9cd764d5ee62",
+      "name": "FrameFlow – Platform Pemilihan Foto Klien untuk Fotografer",
+      "role": "Desainer Produk · Pengembang",
+      "technologies": [
+        "Next.js",
+        "Hono"
+      ],
+      "url": "https://frameflow.weareaap.workers.dev/",
+      "startDate": "2026-03",
+      "endDate": "2026-05",
+      "description": "- Mengidentifikasi dan menerjemahkan proses pemilihan foto yang sebelumnya dilakukan secara manual melalui chat menjadi pengalaman produk digital yang lebih terstruktur untuk fotografer dan klien.\n- Merancang user flow dan antarmuka untuk pengelolaan galeri dan pemilihan foto, sehingga proses pemilihan klien menjadi lebih terstruktur dan mudah dikelola.\n- Mengembangkan dan mengelola platform menggunakan Next.js dan Hono, dengan 19 pengguna terdaftar dan 3 pelanggan berbayar (2 bulanan, 1 tahunan), sekaligus mengelola operasional produk sebagai Super Admin."
+    }
+  ],
+  "certifications": [],
+  "organizations": [
+    {
+      "id": "d2e921bb-78cb-4d02-a624-56fe44081046",
+      "organization": "UKM Campoer Seni (Fotografi)",
+      "position": "Anggota → Koordinator Pendidikan",
+      "startDate": "2023-01",
+      "endDate": "2025-09",
+      "current": false,
+      "description": "- Mengoordinasikan Program Pendidikan Fotografi (2024–2025) sebagai Koordinator Pendidikan dengan merencanakan dan mengelola kegiatan pelatihan bagi anggota baru.\n- Memimpin Grand Photography Exhibition 2025 sebagai Project Lead di Teras Malioboro.\n- Menyelenggarakan Basic Photography Education Exhibition 2023 di Leman Art Space dan menjadi bagian dari kepanitiaan Grand Photography Exhibition 2024 di Langgeng Art Foundation.\n- Berkolaborasi dengan tim lintas fungsi untuk menyelenggarakan pameran fotografi dan program pendidikan kreatif."
+    }
+  ],
+  "optionalSections": {
+    "languages": {
+      "enabled": false,
+      "items": []
+    },
+    "awards": {
+      "enabled": false,
+      "items": []
+    },
+    "courses": {
+      "enabled": false,
+      "items": []
+    },
+    "licenses": {
+      "enabled": false,
+      "items": []
+    },
+    "volunteer": {
+      "enabled": false,
+      "items": []
+    },
+    "publications": {
+      "enabled": false,
+      "items": []
+    },
+    "portfolio": {
+      "enabled": false,
+      "items": []
+    },
+    "references": {
+      "enabled": false,
+      "onDemand": false,
+      "items": []
+    },
+    "interests": {
+      "enabled": false,
+      "items": []
+    }
+  }
+}
