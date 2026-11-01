@@ -1,0 +1,1 @@
+import{g as o}from"./index-DWw4yOtx.js";import{r,c as e}from"./vue-vendor-B-y-Csbg.js";const a=r(!1),f=e(()=>o.value==="id"?"/pdf/IND/CV-Ariyo%20Aziz%20Pratama.pdf":"/pdf/ENG/CV-Ariyo%20Aziz%20Pratama.pdf");function i(){a.value=!0}function c(){a.value=!1}export{c as a,f as c,a as i,i as o};

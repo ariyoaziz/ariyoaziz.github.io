@@ -1,0 +1,1 @@
+import{a as e}from"./index-BGBToUED.js";const t=e,s=[{name:"All",active:!0},{name:"Berworkshed",active:!1},{name:"UI/UX",active:!1},{name:"Development",active:!1},{name:"Photography",active:!1}];export{s as i,t as p};
